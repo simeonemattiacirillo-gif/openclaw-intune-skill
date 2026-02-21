@@ -15,8 +15,6 @@ requires:
 
 This skill gives the agent **full control over Microsoft Intune** via the Microsoft Graph API. It covers device management, application deployment, compliance & configuration policies, user & group management, Autopilot, PowerShell scripts, reporting, and all remote device actions.
 
-> 🌐 **Author:** Mattia Cirillo – [kaffeeundcode.com](https://kaffeeundcode.com)
-
 ---
 
 ## 🔑 Authentication
