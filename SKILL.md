@@ -3,6 +3,12 @@ name: Intune Graph API – Complete Management
 description: "A comprehensive skill enabling OpenClaw agents to fully manage Microsoft Intune via the Graph API. Covers devices, apps, policies, compliance, users, groups, reporting, Autopilot, scripts, and remote actions."
 version: "1.0.0"
 author: "Mattia Cirillo"
+homepage: "https://kaffeeundcode.com"
+requires:
+  env:
+    - INTUNE_TENANT_ID
+    - INTUNE_CLIENT_ID
+    - INTUNE_CLIENT_SECRET
 ---
 
 # Microsoft Intune – Complete Management Skill
